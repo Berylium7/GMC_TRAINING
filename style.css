@@ -1,0 +1,14 @@
+body{
+    display: block;
+    text-align: center;
+}
+input + label{display: block;
+text-align: center;
+}
+label{
+    display:block;
+}
+input{
+    display:block;
+    margin:auto;
+}
